@@ -1,2 +1,2 @@
 # hyperblog
-Un blog de curso
+Un blog de curso creado por Diego
